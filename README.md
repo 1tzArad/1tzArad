@@ -1,9 +1,9 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Arad
 
 ## 🚀 Skills
-- **Programming Languages:** JavaScript, PHP, Python
-- **Frameworks:** React, Node.js, Express
-- **Tools:** Git, Docker, Jenkins
+- **Programming Languages:** JavaScript, PHP, Html/Css
+- **Frameworks:** Laravel, Node.js, PHPMVC
+- **Tools:** Git, Photoshop, Figma, Filmora
 
 ## 🌍 Find Me
 - [![GitHub](https://img.shields.io/badge/GitHub-1tzArad-blue?style=flat&logo=github)](https://github.com/1tzArad)
