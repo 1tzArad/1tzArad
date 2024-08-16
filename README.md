@@ -11,4 +11,4 @@
 - [![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue?style=flat&logo=twitter)](https://twitter.com/YourUsername)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1tzAerad&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1tzArad&show_icons=true&theme=radical)
