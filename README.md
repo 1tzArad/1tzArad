@@ -1,4 +1,4 @@
-(https://cdn.discordapp.com/attachments/1134020960484327546/1288200282588840059/c7345cfc05b3926e04097c440932dde7.jpg?ex=66f45180&is=66f30000&hm=a59700fbb93272f5a37ce162bb09ef813a50ac623366e6ed7a0df045c6e7d759&)
+![1727201402920](images/README/1727201402920.png)
 
 # I'm 1tzArad but you can call me Arad
 
