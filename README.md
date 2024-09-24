@@ -1,4 +1,4 @@
-<img src="images/README/1727202101510.png" align="center">
+<img src="images/README/11e5d4da6b7e35cbc46e62986e0797e1.jpg" align="center">
 
 # 🎈 I'm 1tzArad but you can call me Arad
 
