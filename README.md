@@ -17,7 +17,6 @@ I've been on Discord for a few years now and have created a bunch of Discord ser
 ## 🌍 Where can you find me ?
 
 - ![GitHub](https://img.shields.io/badge/GitHub-1tzArad-blue?style=flat&logo=github)
-- [![X](https://img.shields.io/badge/Twitter-1tzarad-blue?style=flat&logo=twitter)](https://twitter.com/1tzarad)
 
 ## 📊 GitHub Stats
 
