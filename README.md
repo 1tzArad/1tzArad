@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 🎈 I'm 1tzArad but you can call me Arad
 
 I started programming three years ago, but I still can't call myself a developer. I began by making Discord bots with JavaScript. Later, I moved to web development and chose PHP for the backend. Until recently, I was working with PHP and writing Discord bots in JavaScript. Now, I have been using JavaScript for web development for a few months!
