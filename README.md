@@ -14,6 +14,9 @@ I've been on Discord for a few years now and have created a bunch of Discord ser
 
 * When I was choosing my path in programming, I decided to focus on the backend. I'm currently starting to work with JavaScript for backend development, but I haven't reached my desired level yet.
 
+### **Simple Minecraft Bots**
+
+* I'm interest in creating minecraft bots for servers i play. auto seller, afk and other bots. my bots might not be high-quality but they get the job done and i think it's ok!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CbpYTqRYJH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1tz.arad) 
