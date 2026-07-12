@@ -54,3 +54,10 @@ Physics has always been one of my biggest interests, although I haven't had the 
         Some of these are long-term interests that I'm still exploring and haven't had the opportunity to dive into deeply yet.
     </sub>
 </div>
+
+---
+<h3 align="center">🎵 Spotify</h3>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31nf3xpfmw3luak7kznj5cgvol54">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31nf3xpfmw3luak7kznj5cgvol54" alt="Data Card for Spotify">
+</a>
