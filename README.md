@@ -61,3 +61,9 @@ Physics has always been one of my biggest interests, although I haven't had the 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31nf3xpfmw3luak7kznj5cgvol54">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31nf3xpfmw3luak7kznj5cgvol54" alt="Data Card for Spotify">
 </a>
+
+---
+<h3 align="center">🗽 Github Stats</h3>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1tzArad&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
